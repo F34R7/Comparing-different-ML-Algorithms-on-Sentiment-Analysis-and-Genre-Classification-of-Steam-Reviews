@@ -9,3 +9,5 @@ The Steam Cleaner notebook cotains every cleaning step that was introduced. It i
 The other 3 notebooks include the actual ML. It contains accurarcy scores as well as confusion matrices in order to make the evaluation easy and intuitive.
 
 Feel free to experiment with the notebooks!
+
+The PDF file is the actual bachelor thesis and the reason for this repo to exist in the first place. Feel free to read it!
